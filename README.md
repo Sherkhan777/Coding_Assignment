@@ -8,9 +8,10 @@ The second part presents a short Python exercise that covers few operations on "
 
 P.S. The project does not carry any scientific values, rather this is just to showcase my basic knowledge of STATA and Python.
 
-P.S.S If you would have any questions, please feel free to drop me an email at "zhumagaziyev_sh@student.ceu.edu".
+P.S.S If you would have any questions, please feel free to drop me an email at zhumagaziyev_sh@student.ceu.edu.
 
 Thank you. 
 
 Best,
+
 Sherkhan.
